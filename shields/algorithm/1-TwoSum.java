@@ -3,9 +3,6 @@ package leetcode.algorithm;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by ZH.F on 2017/4/6.
- */
 public class TwoSum {
     public static int[] twoSum(int[] nums, int target) {
         int a = 0;
