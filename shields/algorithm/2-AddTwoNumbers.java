@@ -1,8 +1,5 @@
 package leetcode.algorithm;
 
-/**
- * Created by ZH.F on 2017/4/7.
- */
 
 class ListNode{
     int val;
